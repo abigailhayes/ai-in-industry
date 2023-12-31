@@ -2,4 +2,4 @@
 Code developed as submissions for the AI in Industry module at Universität Mannheim.
 
 ## Contents
-- Agriculture - Tomato disease identification from photographs
+- Agriculture - [Tomato disease identification](/Tomato%20diseases.ipynb) from photographs
